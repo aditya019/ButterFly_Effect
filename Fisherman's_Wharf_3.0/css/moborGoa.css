@@ -1,0 +1,188 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+.custom-navbar {
+    position:relative;
+    font-size: larger;
+}
+.carousel {
+    top:0;
+}
+.carousel-inner {
+    width: 100%; 
+    overflow: hidden;
+}
+
+.navbar {
+    position:absolute;
+    top:0;
+    z-index:10;
+    width:100%;
+}
+
+.nav-link {
+    color: white !important;
+    margin-left: 4em;
+    letter-spacing: 0.2em;
+    opacity: 0.86;
+}
+
+.brand-img {
+    height: 4em;
+    width: 4em;
+    margin-top: 2em;
+    margin-left: 4em;
+}
+
+.crousal-image {
+    height: 47em;
+}
+
+.crousal-content {
+    margin-bottom: 17em;
+}
+
+.crousal-btn {
+    background-color: transparent !important;
+}
+
+.crousal-btn a {
+    color: white;
+    text-decoration: none;
+}
+
+.intro-goa {
+    text-align: center;
+    padding-left: 10em;
+    padding-right: 10em;
+    padding-top: 3em;
+    padding-bottom: 5em;
+    letter-spacing: 0.2em;
+}
+
+.intro-goa h1 {
+    padding-bottom: 1em;
+}
+
+.intro-goa h6 {
+    text-align: left;
+    letter-spacing: 0.15;
+}
+
+.intro-goa-image {
+    height: 23em;
+    width: 23em;
+}
+.chef {
+    background-color: #FFFDDE;
+    margin-top: 2em;
+    padding-left: 12em;
+    padding-right: 12em;
+    height: 60em;
+}
+
+.chef h1 {
+    text-align: center;
+    padding-top: 1em;
+    margin-left: 5em;
+    margin-right: 5em;
+    background-color: #1C658C;
+    padding-bottom: 1em;
+    border-radius: 0.2em;
+}
+
+.chef-block-content {
+    width: 100%;
+}
+
+.chef-block-info {
+    text-align: left;
+    width: 40%;
+    padding-top: 3em;
+    float: left;
+}
+
+.chef-image {
+    height: 35em;
+    width: 24em;
+    vertical-align: top;
+    padding-bottom: 3em;
+}
+
+.chef-image-div {
+    width: 40%;
+    vertical-align: top;
+    margin-left: 60%;
+    padding-top: 4em;
+}
+
+.menu {
+    margin-top: 5em;
+    margin-left: 12em;
+    margin-bottom: 8em;
+}
+
+.menu h1 {
+    padding-left: 1em;
+}
+
+.card {
+    display: inline-block;
+    margin-top: 3em;
+    margin-left: 3em;
+}
+
+.slideshow {
+    text-align: center;
+    background-color: #FDD2BF;
+    margin-bottom: 5em;
+}
+
+.slideshow-crousal {
+    width: 70%;
+    height: 35%;
+    padding-top: 3em;
+    padding-bottom: 3em;
+    margin: auto;
+}
+
+.press {
+    margin-top: 5em;
+    margin-bottom: 5em;
+    margin-left: 10em;
+}
+
+.press h1 {
+    margin-left: 1em;
+}
+
+.goaTimes {
+    padding-top: 4em;
+}
+
+.contact {
+    background-color: #B5EAEA;
+    padding-left: 12em;
+    padding-right: 8em;
+    padding-bottom: 5em;
+    padding-top: 5em;
+}
+
+.contact-card {
+    text-align: center;
+    /* color: #FFFDDE; */
+}
+
+.reservation {
+    padding-top: 5em;
+    padding-left: 8em;
+    padding-bottom: 8em;
+    background-color: #FFFDDE;
+}
+
+.reservation input {
+    margin-left: 10em;
+    margin-bottom: 4em;
+    margin-top: 3em;
+}

@@ -1,0 +1,83 @@
+/* .custom-navber {
+    position: absolute;
+    z-index: 10;
+    width: 100%;
+}
+
+.nav-link {
+    color: white !important;
+}
+
+.custom-crousal {
+    position: relative;
+    background-size: cover;
+    background-position: center;
+} */
+
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+/* first 4 are important  */
+.custom-navbar {
+    position:relative;
+    font-size: larger;
+}
+.carousel {
+    top:0;
+}
+.carousel-inner {
+    width: 100%; 
+    overflow: hidden;
+}
+
+.navbar {
+    position:absolute;
+    top:0;
+    z-index:10;
+    width:100%;
+}
+
+.nav-link {
+    color: white !important;
+    margin-left: 4em;
+    letter-spacing: 0.2em;
+    opacity: 0.86;
+}
+
+.brand-img {
+    height: 4em;
+    width: 4em;
+    margin-top: 2em;
+    margin-left: 4em;
+}
+
+.carousel-img {
+    height: 47em;
+}
+
+.carousel-img-header {
+    padding-bottom: 6em;
+}
+
+.carousel-img-para {
+    margin-bottom: 5em;
+}
+
+.homepage-content {
+    margin-top: 10%;
+    margin-bottom: 15%;
+    margin-left: 4em;
+    margin-right: 4em;
+}
+
+.homepage-content-header {
+    margin-bottom: 2em;
+    letter-spacing: 0.2em;
+}
+
+.homepage-content-para {
+    margin-top: 2em;
+    font-weight: 300;
+    letter-spacing: 0.12em;
+}
